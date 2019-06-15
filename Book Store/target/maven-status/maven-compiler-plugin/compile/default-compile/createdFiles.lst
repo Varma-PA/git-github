@@ -1,0 +1,4 @@
+org/store/book_store/entities/AdminInfo.class
+org/store/book_store/dao/ICustomerDao.class
+org/store/book_store/entities/Category.class
+org/store/book_store/entities/BookInfo.class
