@@ -148,7 +148,7 @@ public class MyWebMVCConfig {
 		try {
 			ComboPooledDataSource postgresDataSource = new ComboPooledDataSource();
 			postgresDataSource.setDriverClass("com.mysql.jdbc.Driver");
-			postgresDataSource.setJdbcUrl("jdbc:mysql://localhost:3306/Case_Study");
+			postgresDataSource.setJdbcUrl("jdbc:mysql://localhost:3306/case_study");
 			postgresDataSource.setUser("achyuth");
 			postgresDataSource.setPassword("Varma@123");
 			return postgresDataSource;
